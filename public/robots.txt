@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://s7r7v.github.io/sitemap.xml

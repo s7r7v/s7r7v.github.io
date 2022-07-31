@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>test on Basement 365</title>
+    <link>https://s7r7v.github.io/tags/test/</link>
+    <description>Recent content in test on Basement 365</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 30 Jul 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://s7r7v.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hellow world</title>
+      <link>https://s7r7v.github.io/posts/hello/</link>
+      <pubDate>Sat, 30 Jul 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://s7r7v.github.io/posts/hello/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
