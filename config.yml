@@ -4,6 +4,7 @@ title: "Basement 365"
 paginate: 5
 theme: hugo-PaperMod
 homepage: "https://s7r7v.github.io/"
+publishDir: "docs" # the path required by Github Pages engine.
 
 #######################################################
 enableRobotsTXT: true
