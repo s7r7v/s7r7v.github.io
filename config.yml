@@ -1,0 +1,88 @@
+################### ROOT PARAMETERS ###################
+baseURL: "https://s7r7v.github.io/"
+title: "Basement 365"
+paginate: 5
+theme: hugo-PaperMod
+homepage: "https://s7r7v.github.io/"
+
+#######################################################
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+#######################################################
+minify:
+  disableXML: true
+  minifyOutput: true
+
+#######################################################
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: "Basement 365"
+  description: "Base things about Dynamics365"
+  keywords: [Ax7, Ax 7, D365, Finance, SCM, Azure, PowerPlatform,  PaperMod]
+  author: Me
+  # author: ["Me", "You"] # multiple authors
+  DateFormat: "January 2, 2006"
+  defaultTheme: dark # dark, light, auto
+  disableThemeToggle: false
+  #### PAGE PARAMETERS
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+#######################################################
+
+  # profile-mode
+  profileMode:
+    enabled: true
+    title: "Basement 365"
+    subtitle: "Basic things around Dynamics365"
+    imageUrl: "/profile.png"
+    imageTitle: "Basement365" # optional
+    imageWidth: 220 # custom size
+    imageHeight: 220 # custom size
+    buttons:
+        - name: Blog
+          url: "/posts"
+        - name: Pages
+          url: "/pages"
+    #socialIcons: # optional
+    #    - name: "<platform>"
+    #        url: "<link>"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+menu:
+  main:
+    - identifier: tags
+      name: Tags
+      url: tags/
+      weight: 20
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+
+pygmentsUseClasses: true
+
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
