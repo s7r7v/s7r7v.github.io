@@ -2,23 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://s7r7v.github.io/posts/hello/</loc>
-    <lastmod>2022-07-30T11:30:03+00:00</lastmod>
+    <loc>https://s7r7v.github.io/posts/install-local-vhd/</loc>
+    <lastmod>2022-07-31T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://s7r7v.github.io/pages/</loc>
     <lastmod>2022-07-30T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://s7r7v.github.io/</loc>
-    <lastmod>2022-07-30T11:30:03+00:00</lastmod>
+    <lastmod>2022-07-31T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://s7r7v.github.io/tags/devops/</loc>
+    <lastmod>2022-07-31T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://s7r7v.github.io/tags/howto/</loc>
+    <lastmod>2022-07-31T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://s7r7v.github.io/posts/</loc>
-    <lastmod>2022-07-30T11:30:03+00:00</lastmod>
+    <lastmod>2022-07-31T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://s7r7v.github.io/tags/</loc>
-    <lastmod>2022-07-30T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://s7r7v.github.io/tags/test/</loc>
-    <lastmod>2022-07-30T11:30:03+00:00</lastmod>
+    <lastmod>2022-07-31T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://s7r7v.github.io/categories/</loc>
   </url>

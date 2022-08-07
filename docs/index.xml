@@ -5,14 +5,18 @@
     <link>https://s7r7v.github.io/</link>
     <description>Recent content on Basement 365</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 30 Jul 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://s7r7v.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Jul 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://s7r7v.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hellow world</title>
-      <link>https://s7r7v.github.io/posts/hello/</link>
-      <pubDate>Sat, 30 Jul 2022 11:30:03 +0000</pubDate>
+      <title>How To: Deploy local D365F&amp;O environment from VHD</title>
+      <link>https://s7r7v.github.io/posts/install-local-vhd/</link>
+      <pubDate>Sun, 31 Jul 2022 11:30:03 +0000</pubDate>
       
-      <guid>https://s7r7v.github.io/posts/hello/</guid>
-      <description></description>
+      <guid>https://s7r7v.github.io/posts/install-local-vhd/</guid>
+      <description>Deploying a local development environment is kind of routine task for an F&amp;amp;O developer. Below are the steps I always follow to get my environment up and ready to work.
+Download VHD. Usualy I download VHD files from LCS shared asset library - Shared asset library.
+There is &amp;ldquo;Downloadable VHD&amp;rdquo; tab from where I can download VM image.
+You can use your browser download manager or a third-party one.
+I prefer to use PS script and azcopy.</description>
     </item>
     
     <item>
