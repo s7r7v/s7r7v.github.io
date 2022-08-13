@@ -16,6 +16,8 @@ This post helped me to make my first deployment - [Create a website with Hugo an
 
 Icons - [Icons and Photos For Everything](https://thenounproject.com/)
 
+Link domain name instructions - [GoDaddy Domain with GitHub Pages](https://jinnabalu.medium.com/godaddy-domain-with-github-pages-62aed906d4ef)
+
 ---
 
 ## Seting up environment
